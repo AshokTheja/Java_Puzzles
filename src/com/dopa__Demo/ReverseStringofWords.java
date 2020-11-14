@@ -1,4 +1,4 @@
-package com.ex.dopa__;
+package com.dopa__Demo;
 
 public class ReverseStringofWords {
 

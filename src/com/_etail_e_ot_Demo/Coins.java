@@ -1,4 +1,4 @@
-package com.ex._etail_e_ot;
+package com._etail_e_ot_Demo;
 
 //Program to find the less number of changes required for the n number of coins as input with any random flip side. 
 public class Coins {
