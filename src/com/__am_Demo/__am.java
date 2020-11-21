@@ -1,12 +1,12 @@
-package com.e__m_Demo;
+package com.__am_Demo;
 
 import java.util.ArrayList;
 import java.util.List;
 
 // Program to find an object type with count.
-public class EPam {
+public class __am {
 
-	static EPam p;
+	static __am p;
 
 	public static void main(String[] args) {
 		List<Object> test = new ArrayList<>();
@@ -48,14 +48,14 @@ public class EPam {
 
 }
 
-class Mobile extends EPam {
+class Mobile extends __am {
 
 }
 
-class PersonalComputer extends EPam {
+class PersonalComputer extends __am {
 
 }
 
-class PersonalTab extends EPam {
+class PersonalTab extends __am {
 
 }
