@@ -1,12 +1,12 @@
-package com.__am_Demo;
+package com.solved_puzzles;
 
 import java.util.ArrayList;
 import java.util.List;
 
 // Program to find an object type with count.
-public class __am {
+public class ObjType_WithCount {
 
-	static __am p;
+	static ObjType_WithCount p;
 
 	public static void main(String[] args) {
 		List<Object> test = new ArrayList<>();
@@ -48,14 +48,14 @@ public class __am {
 
 }
 
-class Mobile extends __am {
+class Mobile extends ObjType_WithCount {
 
 }
 
-class PersonalComputer extends __am {
+class PersonalComputer extends ObjType_WithCount {
 
 }
 
-class PersonalTab extends __am {
+class PersonalTab extends ObjType_WithCount {
 
 }

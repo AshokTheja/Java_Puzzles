@@ -1,4 +1,4 @@
-package com.__ck_ell_Demo;
+package com.solved_puzzles;
 
 import java.util.LinkedHashMap;
 import java.util.LinkedList;
@@ -6,7 +6,7 @@ import java.util.LinkedList;
 //Program to find the count of PLC's in run mode from total of 1100, after operations performed 
 //on them by 1100 employees.
 
-public class Puzzle_Solve {
+public class FinalCountof_PLCSinRunMode {
 
 	public static void main(String[] args) {
 

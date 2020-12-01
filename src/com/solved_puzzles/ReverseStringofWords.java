@@ -1,4 +1,4 @@
-package com.dopa__Demo;
+package com.solved_puzzles;
 
 public class ReverseStringofWords {
 
