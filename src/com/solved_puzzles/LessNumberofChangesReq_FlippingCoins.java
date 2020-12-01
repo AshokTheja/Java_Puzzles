@@ -1,11 +1,11 @@
-package com._etail_e_ot_Demo;
+package com.solved_puzzles;
 
 //Program to find the less number of changes required for the n number of coins as input with any random flip side. 
-public class Coins {
+public class LessNumberofChangesReq_FlippingCoins {
 
 	public static void main(String[] args) {
 
-		Coins coin = new Coins();
+		LessNumberofChangesReq_FlippingCoins coin = new LessNumberofChangesReq_FlippingCoins();
 		int[] test = { 0, 1, 1, 0, 1, 1, 0, 0, 1, 1 };
 
 		System.out.println(coin.solution(test));

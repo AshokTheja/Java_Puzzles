@@ -1,14 +1,14 @@
-package com._etail_e_ot_Demo;
+package com.solved_puzzles;
 
 import java.util.Arrays;
 
 //Program to find the smallest Positive integer missed in an given array of size n and 
 //range between -nve, 0 and +ve integers.
 
-public class SmallestNumberMissed {
+public class SmallestNumberMissedorNext_InArray {
 
 	public static void main(String[] args) {
-		SmallestNumberMissed sol = new SmallestNumberMissed();
+		SmallestNumberMissedorNext_InArray sol = new SmallestNumberMissedorNext_InArray();
 
 		int[] test = { -1, -2, 0, 1, 2, 3, 4, 5, 6, 7, 8 };
 		System.out.println("Smallest number Missed/Next in the array: " + sol.solution(test));

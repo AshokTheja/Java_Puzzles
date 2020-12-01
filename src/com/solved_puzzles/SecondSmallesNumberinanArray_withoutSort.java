@@ -1,6 +1,6 @@
-package com.ell___an_Demo;
+package com.solved_puzzles;
 
-public class SecondSmallesNumberinanArray {
+public class SecondSmallesNumberinanArray_withoutSort {
 
 	// Find the Second smallest number in an array with out using Sort.
 
