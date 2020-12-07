@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
-public class ZigZag_Conversion {
+public class First_Last_Positionin_SortedArray {
 
 	public static void main(String[] args) {
 //		int[] nums = { 5, 7, 7, 8, 8, 10 }; // - working
