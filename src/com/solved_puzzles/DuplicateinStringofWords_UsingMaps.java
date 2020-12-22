@@ -19,14 +19,17 @@ public class DuplicateinStringofWords_UsingMaps {
 		Map<String, Integer> test4 = new TreeMap<>();
 
 		for (int i = 0; i <= test1.length - 1; i++) {
+
 			if (test2.containsKey(test1[i])) {
 				continue;
 			}
 
 			for (int j = i + 1; j <= test1.length - 1; j++) {
+
 				if (i == test1.length - 1) {
 					j = i;
 				}
+
 				if (test1[i].equals(test1[j])) {
 					count += 1;
 					test2.put(test1[i], count);
